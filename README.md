@@ -1,6 +1,8 @@
 # Embedded-M00 ⚡
 
-![ATmega328P board illustration](assets/atmega328p.png)
+<p align="center">
+  <img src="assets/atmega328p.png" alt="ATmega328P board illustration" width="660" height="340" style="border-radius: 12px;" />
+</p>
 
 This project is a hands-on introduction to embedded C programming with the AVR microcontroller family, using an ATmega328P target and a minimal Arduino-compatible setup.
 
