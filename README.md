@@ -1,5 +1,7 @@
 # Embedded-M00 ⚡
 
+![ATmega328P board illustration](assets/atmega328p.png)
+
 This project is a hands-on introduction to embedded C programming with the AVR microcontroller family, using an ATmega328P target and a minimal Arduino-compatible setup.
 
 The main goal is to learn the fundamentals of embedded systems by directly interacting with hardware registers, GPIO pins, timing, and button handling.
